@@ -1,0 +1,1 @@
+# Necessário instalar a biblioteca rich com pip install rich no terminal.
